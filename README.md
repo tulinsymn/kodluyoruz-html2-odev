@@ -1,4 +1,4 @@
-# kodluyoruz-html2-dev
+# kodluyoruz-html2-odev
 <h1> <em>TÜLİN SEYMENOĞLU</em></h1>
 <h2> <em>About Me</em> </h2>
 <p><i>Hello,I'm <span style="color: green">Tülin Seymenoğlu</span> . I am currently studying Computer Engineering at<span style ="color: green"> Giresun University </span>.
